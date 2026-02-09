@@ -1,0 +1,8 @@
+flask
+flask-smorest
+flask-sqlalchemy
+flask-migrate
+flask-jwt-extended
+marshmallow
+passlib[bcrypt]
+pymysql
